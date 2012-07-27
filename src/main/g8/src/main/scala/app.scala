@@ -16,4 +16,4 @@ class Script extends AppMain {
     Exit(Main.run(conf.arguments))
 }
 
-case class Exit(val code: Int) extend xsbti.Exit
+case class Exit(val code: Int) extends xsbti.Exit
