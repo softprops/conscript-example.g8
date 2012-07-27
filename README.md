@@ -14,7 +14,7 @@ get the template
 
 start coding
 
-    cs conscript-example && sbt
+    cd conscript-example && sbt
 
 [g8]: https://github.com/n8han/giter8
 [cs]: https://github.com/n8han/conscript
