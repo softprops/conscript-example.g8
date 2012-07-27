@@ -8,6 +8,7 @@ object Main {
   }
   def run(args: Array[String]): Int = {
     println("$message$: %s" format args)
+    0
   }
 }
 
