@@ -1,5 +1,5 @@
 [app]
-  version: 0.1.0-SNAPSHOT
+  version: $version$
   org: $org$
   name: $project-name$
   class: $org$.Script
