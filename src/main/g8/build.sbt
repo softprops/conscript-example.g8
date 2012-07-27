@@ -1,4 +1,4 @@
-name := "$project-name$"
+name := "$project_name$"
 
 organization := "$org$"
 

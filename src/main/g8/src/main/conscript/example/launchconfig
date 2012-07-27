@@ -1,7 +1,7 @@
 [app]
   version: $version$
   org: $org$
-  name: $project-name$
+  name: $project_name$
   class: $org$.Script
 [scala]
   version: 2.9.2
