@@ -1,0 +1,11 @@
+[app]
+  version: 0.1.0-SNAPSHOT
+  org: $org$
+  name: $project-name$
+  class: $org$.Script
+[scala]
+  version: 2.9.2
+[repositories]
+  local
+  maven-central
+  sonatype-releases: https://oss.sonatype.org/content/repositories/releases/
